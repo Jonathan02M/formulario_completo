@@ -17,7 +17,6 @@ Aplicativo desenvolvido para demonstrar um formulário completo de cadastro com 
 ✅ Checkbox obrigatório (termos)
 ✅ Feedback com SnackBar
 ✅ Loading durante envio
-✅ Layout moderno com gradiente
 
 ---
 
@@ -63,4 +62,4 @@ lib/
 
 ## 👨‍💻 Autor
 
-Jonathan Machado
+Jonathan Machado Mercurio 
